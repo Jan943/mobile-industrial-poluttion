@@ -1,0 +1,23 @@
+<resources>
+    <!-- TODO changed the tittle -->
+    <string name="app_name">WHAT TITTLE WE SHOULD USE?</string>
+
+    <string name="activity_main_button1">Lista</string>
+    <string name="activity_main_button2">Mapa</string>
+    <string name="activity_main_button3">Nowa awaria</string>
+    <string name="activity_list_text1">Awarie:</string>
+    <string name="activity_list_text2">Nazwa</string>
+    <string name="activity_list_text3">Data</string>
+    <string name="activity_list_text4">Ocena</string>
+    <string name="activity_list_text5">Szczegóły</string>
+    <string name="activity_detail_buton1">Powrót</string>
+    <string name="activity_summary_text1">Podsumowanie</string>
+    <string name="activity_summary_text2">Przybliżona lokalizacja</string>
+    <string name="activity_summary_text3">Zdjęcie zdarzenia</string>
+    <string name="activity_summary_text4">Dziękujemy za wysłanie zgłószenia!</string>
+    <string name="activity_summary_buton1">Edytuj</string>
+    <string name="activity_summary_buton2">Wyślij zgłoszenie</string>
+    <string name="title_activity_maps_with_camera">Map</string>
+    <string name="title_activity_maps">Google MAP</string>
+    <string name="welcome_text">Hej Łukasz</string>
+</resources>
