@@ -1,4 +1,4 @@
-package com.qubit.kpt.mobile
+package com.qubit.kpt.mobile.ui.fragments
 
 import android.content.Context
 import android.os.Bundle
@@ -9,9 +9,11 @@ import androidx.recyclerview.widget.RecyclerView
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import com.qubit.kpt.mobile.R
 
 import com.qubit.kpt.mobile.model.DummyModel
 import com.qubit.kpt.mobile.model.DummyModel.DummyItem
+import com.qubit.kpt.mobile.ui.MyEventRecyclerViewAdapter
 
 /**
  * A fragment representing a list of Items.
@@ -46,7 +48,10 @@ class EventFragment : Fragment() {
                     columnCount <= 1 -> LinearLayoutManager(context)
                     else -> GridLayoutManager(context, columnCount)
                 }
-                adapter = MyEventRecyclerViewAdapter(DummyModel.ITEMS, listener)
+                adapter = MyEventRecyclerViewAdapter(
+                    DummyModel.ITEMS,
+                    listener
+                )
             }
         }
         return view

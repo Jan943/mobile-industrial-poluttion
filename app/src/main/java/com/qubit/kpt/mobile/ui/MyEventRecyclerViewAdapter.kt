@@ -1,13 +1,14 @@
-package com.qubit.kpt.mobile
+package com.qubit.kpt.mobile.ui
 
 import androidx.recyclerview.widget.RecyclerView
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.TextView
+import com.qubit.kpt.mobile.R
 
 
-import com.qubit.kpt.mobile.EventFragment.OnListFragmentInteractionListener
+import com.qubit.kpt.mobile.ui.fragments.EventFragment.OnListFragmentInteractionListener
 import com.qubit.kpt.mobile.model.DummyModel.DummyItem
 
 import kotlinx.android.synthetic.main.fragment_event.view.*

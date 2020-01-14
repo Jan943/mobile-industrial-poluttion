@@ -1,8 +1,10 @@
-package com.qubit.kpt.mobile
+package com.qubit.kpt.mobile.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.qubit.kpt.mobile.R
 import com.qubit.kpt.mobile.model.DummyModel
+import com.qubit.kpt.mobile.ui.fragments.EventFragment
 
 class HomeActivity : AppCompatActivity(), EventFragment.OnListFragmentInteractionListener {
 
