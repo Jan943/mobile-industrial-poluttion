@@ -1903,6 +1903,7 @@ layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
 layout fragment_event
+layout fragment_event_item
 layout fragment_event_list
 layout mtrl_alert_dialog
 layout mtrl_alert_dialog_actions

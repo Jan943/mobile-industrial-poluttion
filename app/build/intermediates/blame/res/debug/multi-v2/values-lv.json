@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/jan/Pulpit/kptmobile-qubit-kpt-mobile/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lv/values-lv.xml",
+            "outputFile": "/home/jan/Pulpit/mobile-industrial-poluttion/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lv/values-lv.xml",
             "map": [
                 {
                     "source": "/home/jan/.gradle/caches/transforms-2/files-2.1/e002a346dc360d28ff31a3ec9451951e/core-1.1.0-rc02/res/values-lv/values-lv.xml",

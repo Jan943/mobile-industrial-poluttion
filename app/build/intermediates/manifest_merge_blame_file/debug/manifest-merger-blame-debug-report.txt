@@ -7,21 +7,21 @@
 7
 8    <uses-sdk
 9        android:minSdkVersion="15"
-9-->/home/jan/Pulpit/kptmobile-qubit-kpt-mobile/app/src/main/AndroidManifest.xml
+9-->/home/jan/Pulpit/mobile-industrial-poluttion/app/src/main/AndroidManifest.xml
 10        android:targetSdkVersion="29" />
-10-->/home/jan/Pulpit/kptmobile-qubit-kpt-mobile/app/src/main/AndroidManifest.xml
+10-->/home/jan/Pulpit/mobile-industrial-poluttion/app/src/main/AndroidManifest.xml
 11    <!--
 12         The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
 13         Google Maps Android API v2, but you must specify either coarse or fine
 14         location permissions for the 'MyLocation' functionality.
 15    -->
 16    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-16-->/home/jan/Pulpit/kptmobile-qubit-kpt-mobile/app/src/main/AndroidManifest.xml:10:5-79
-16-->/home/jan/Pulpit/kptmobile-qubit-kpt-mobile/app/src/main/AndroidManifest.xml:10:22-76
+16-->/home/jan/Pulpit/mobile-industrial-poluttion/app/src/main/AndroidManifest.xml:10:5-79
+16-->/home/jan/Pulpit/mobile-industrial-poluttion/app/src/main/AndroidManifest.xml:10:22-76
 17
 18    <dist:module dist:instant="true" />
-18-->/home/jan/Pulpit/kptmobile-qubit-kpt-mobile/app/src/main/AndroidManifest.xml:12:5-40
-18-->/home/jan/Pulpit/kptmobile-qubit-kpt-mobile/app/src/main/AndroidManifest.xml:12:18-37
+18-->/home/jan/Pulpit/mobile-industrial-poluttion/app/src/main/AndroidManifest.xml:12:5-40
+18-->/home/jan/Pulpit/mobile-industrial-poluttion/app/src/main/AndroidManifest.xml:12:18-37
 19
 20    <!-- Include required permissions for Google Maps API to run. -->
 21    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
@@ -39,29 +39,29 @@
 26-->[com.google.android.gms:play-services-maps:16.1.0] /home/jan/.gradle/caches/transforms-2/files-2.1/b842a7e25f5d737e7c8b4247d4833e73/jetified-play-services-maps-16.1.0/AndroidManifest.xml:28:9-32
 27
 28    <application
-28-->/home/jan/Pulpit/kptmobile-qubit-kpt-mobile/app/src/main/AndroidManifest.xml:14:5-55:19
+28-->/home/jan/Pulpit/mobile-industrial-poluttion/app/src/main/AndroidManifest.xml:14:5-55:19
 29        android:allowBackup="true"
-29-->/home/jan/Pulpit/kptmobile-qubit-kpt-mobile/app/src/main/AndroidManifest.xml:15:9-35
+29-->/home/jan/Pulpit/mobile-industrial-poluttion/app/src/main/AndroidManifest.xml:15:9-35
 30        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 30-->[androidx.core:core:1.1.0-rc02] /home/jan/.gradle/caches/transforms-2/files-2.1/e002a346dc360d28ff31a3ec9451951e/core-1.1.0-rc02/AndroidManifest.xml:24:18-86
 31        android:debuggable="true"
 32        android:icon="@mipmap/ic_launcher"
-32-->/home/jan/Pulpit/kptmobile-qubit-kpt-mobile/app/src/main/AndroidManifest.xml:16:9-43
+32-->/home/jan/Pulpit/mobile-industrial-poluttion/app/src/main/AndroidManifest.xml:16:9-43
 33        android:label="@string/app_name"
-33-->/home/jan/Pulpit/kptmobile-qubit-kpt-mobile/app/src/main/AndroidManifest.xml:17:9-41
+33-->/home/jan/Pulpit/mobile-industrial-poluttion/app/src/main/AndroidManifest.xml:17:9-41
 34        android:roundIcon="@mipmap/ic_launcher_round"
-34-->/home/jan/Pulpit/kptmobile-qubit-kpt-mobile/app/src/main/AndroidManifest.xml:18:9-54
+34-->/home/jan/Pulpit/mobile-industrial-poluttion/app/src/main/AndroidManifest.xml:18:9-54
 35        android:supportsRtl="true"
-35-->/home/jan/Pulpit/kptmobile-qubit-kpt-mobile/app/src/main/AndroidManifest.xml:19:9-35
+35-->/home/jan/Pulpit/mobile-industrial-poluttion/app/src/main/AndroidManifest.xml:19:9-35
 36        android:testOnly="true"
 37        android:theme="@style/AppTheme" >
-37-->/home/jan/Pulpit/kptmobile-qubit-kpt-mobile/app/src/main/AndroidManifest.xml:20:9-40
+37-->/home/jan/Pulpit/mobile-industrial-poluttion/app/src/main/AndroidManifest.xml:20:9-40
 38        <activity android:name="com.qubit.kpt.mobile.smogaton.SummaryEndActivity" />
-38-->/home/jan/Pulpit/kptmobile-qubit-kpt-mobile/app/src/main/AndroidManifest.xml:21:9-94
-38-->/home/jan/Pulpit/kptmobile-qubit-kpt-mobile/app/src/main/AndroidManifest.xml:21:19-82
+38-->/home/jan/Pulpit/mobile-industrial-poluttion/app/src/main/AndroidManifest.xml:21:9-94
+38-->/home/jan/Pulpit/mobile-industrial-poluttion/app/src/main/AndroidManifest.xml:21:19-82
 39        <activity android:name="com.qubit.kpt.mobile.smogaton.SummaryActivity" />
-39-->/home/jan/Pulpit/kptmobile-qubit-kpt-mobile/app/src/main/AndroidManifest.xml:22:9-82
-39-->/home/jan/Pulpit/kptmobile-qubit-kpt-mobile/app/src/main/AndroidManifest.xml:22:19-79
+39-->/home/jan/Pulpit/mobile-industrial-poluttion/app/src/main/AndroidManifest.xml:22:9-82
+39-->/home/jan/Pulpit/mobile-industrial-poluttion/app/src/main/AndroidManifest.xml:22:19-79
 40        <!--
 41             The API key for Google Maps-based APIs is defined as a string resource.
 42             (See the file "res/values/google_maps_api.xml").
@@ -71,58 +71,58 @@
 46             You can define the keys for the debug and release targets in src/debug/ and src/release/.
 47        -->
 48        <meta-data
-48-->/home/jan/Pulpit/kptmobile-qubit-kpt-mobile/app/src/main/AndroidManifest.xml:31:9-33:55
+48-->/home/jan/Pulpit/mobile-industrial-poluttion/app/src/main/AndroidManifest.xml:31:9-33:55
 49            android:name="com.google.android.geo.API_KEY"
-49-->/home/jan/Pulpit/kptmobile-qubit-kpt-mobile/app/src/main/AndroidManifest.xml:32:13-58
+49-->/home/jan/Pulpit/mobile-industrial-poluttion/app/src/main/AndroidManifest.xml:32:13-58
 50            android:value="@string/google_maps_key" />
-50-->/home/jan/Pulpit/kptmobile-qubit-kpt-mobile/app/src/main/AndroidManifest.xml:33:13-52
+50-->/home/jan/Pulpit/mobile-industrial-poluttion/app/src/main/AndroidManifest.xml:33:13-52
 51
 52        <activity
-52-->/home/jan/Pulpit/kptmobile-qubit-kpt-mobile/app/src/main/AndroidManifest.xml:35:9-37:71
+52-->/home/jan/Pulpit/mobile-industrial-poluttion/app/src/main/AndroidManifest.xml:35:9-37:71
 53            android:name="com.qubit.kpt.mobile.smogaton.MapsWithCameraActivity"
-53-->/home/jan/Pulpit/kptmobile-qubit-kpt-mobile/app/src/main/AndroidManifest.xml:36:13-80
+53-->/home/jan/Pulpit/mobile-industrial-poluttion/app/src/main/AndroidManifest.xml:36:13-80
 54            android:label="@string/title_activity_maps_with_camera" />
-54-->/home/jan/Pulpit/kptmobile-qubit-kpt-mobile/app/src/main/AndroidManifest.xml:37:13-68
+54-->/home/jan/Pulpit/mobile-industrial-poluttion/app/src/main/AndroidManifest.xml:37:13-68
 55        <activity android:name="com.qubit.kpt.mobile.smogaton.Detail5Activity" />
-55-->/home/jan/Pulpit/kptmobile-qubit-kpt-mobile/app/src/main/AndroidManifest.xml:38:9-82
-55-->/home/jan/Pulpit/kptmobile-qubit-kpt-mobile/app/src/main/AndroidManifest.xml:38:19-79
+55-->/home/jan/Pulpit/mobile-industrial-poluttion/app/src/main/AndroidManifest.xml:38:9-82
+55-->/home/jan/Pulpit/mobile-industrial-poluttion/app/src/main/AndroidManifest.xml:38:19-79
 56        <activity android:name="com.qubit.kpt.mobile.smogaton.Detail4Activity" >
-56-->/home/jan/Pulpit/kptmobile-qubit-kpt-mobile/app/src/main/AndroidManifest.xml:39:9-40:20
-56-->/home/jan/Pulpit/kptmobile-qubit-kpt-mobile/app/src/main/AndroidManifest.xml:39:19-79
+56-->/home/jan/Pulpit/mobile-industrial-poluttion/app/src/main/AndroidManifest.xml:39:9-40:20
+56-->/home/jan/Pulpit/mobile-industrial-poluttion/app/src/main/AndroidManifest.xml:39:19-79
 57        </activity>
 58        <activity android:name="com.qubit.kpt.mobile.smogaton.Detail3Activity" />
-58-->/home/jan/Pulpit/kptmobile-qubit-kpt-mobile/app/src/main/AndroidManifest.xml:41:9-82
-58-->/home/jan/Pulpit/kptmobile-qubit-kpt-mobile/app/src/main/AndroidManifest.xml:41:19-79
+58-->/home/jan/Pulpit/mobile-industrial-poluttion/app/src/main/AndroidManifest.xml:41:9-82
+58-->/home/jan/Pulpit/mobile-industrial-poluttion/app/src/main/AndroidManifest.xml:41:19-79
 59        <activity android:name="com.qubit.kpt.mobile.smogaton.Detail2Activity" />
-59-->/home/jan/Pulpit/kptmobile-qubit-kpt-mobile/app/src/main/AndroidManifest.xml:42:9-82
-59-->/home/jan/Pulpit/kptmobile-qubit-kpt-mobile/app/src/main/AndroidManifest.xml:42:19-79
+59-->/home/jan/Pulpit/mobile-industrial-poluttion/app/src/main/AndroidManifest.xml:42:9-82
+59-->/home/jan/Pulpit/mobile-industrial-poluttion/app/src/main/AndroidManifest.xml:42:19-79
 60        <activity android:name="com.qubit.kpt.mobile.smogaton.Detail1Activity" />
-60-->/home/jan/Pulpit/kptmobile-qubit-kpt-mobile/app/src/main/AndroidManifest.xml:43:9-82
-60-->/home/jan/Pulpit/kptmobile-qubit-kpt-mobile/app/src/main/AndroidManifest.xml:43:19-79
+60-->/home/jan/Pulpit/mobile-industrial-poluttion/app/src/main/AndroidManifest.xml:43:9-82
+60-->/home/jan/Pulpit/mobile-industrial-poluttion/app/src/main/AndroidManifest.xml:43:19-79
 61        <activity android:name="com.qubit.kpt.mobile.smogaton.ListActivity" />
-61-->/home/jan/Pulpit/kptmobile-qubit-kpt-mobile/app/src/main/AndroidManifest.xml:44:9-79
-61-->/home/jan/Pulpit/kptmobile-qubit-kpt-mobile/app/src/main/AndroidManifest.xml:44:19-76
+61-->/home/jan/Pulpit/mobile-industrial-poluttion/app/src/main/AndroidManifest.xml:44:9-79
+61-->/home/jan/Pulpit/mobile-industrial-poluttion/app/src/main/AndroidManifest.xml:44:19-76
 62        <activity android:name="com.qubit.kpt.mobile.smogaton.PreActivity" />
-62-->/home/jan/Pulpit/kptmobile-qubit-kpt-mobile/app/src/main/AndroidManifest.xml:45:9-78
-62-->/home/jan/Pulpit/kptmobile-qubit-kpt-mobile/app/src/main/AndroidManifest.xml:45:19-75
+62-->/home/jan/Pulpit/mobile-industrial-poluttion/app/src/main/AndroidManifest.xml:45:9-78
+62-->/home/jan/Pulpit/mobile-industrial-poluttion/app/src/main/AndroidManifest.xml:45:19-75
 63        <activity
-63-->/home/jan/Pulpit/kptmobile-qubit-kpt-mobile/app/src/main/AndroidManifest.xml:46:9-48:59
+63-->/home/jan/Pulpit/mobile-industrial-poluttion/app/src/main/AndroidManifest.xml:46:9-48:59
 64            android:name="com.qubit.kpt.mobile.smogaton.MapsActivity"
-64-->/home/jan/Pulpit/kptmobile-qubit-kpt-mobile/app/src/main/AndroidManifest.xml:47:13-70
+64-->/home/jan/Pulpit/mobile-industrial-poluttion/app/src/main/AndroidManifest.xml:47:13-70
 65            android:label="@string/title_activity_maps" />
-65-->/home/jan/Pulpit/kptmobile-qubit-kpt-mobile/app/src/main/AndroidManifest.xml:48:13-56
-66        <activity android:name="com.qubit.kpt.mobile.HomeActivity" >
-66-->/home/jan/Pulpit/kptmobile-qubit-kpt-mobile/app/src/main/AndroidManifest.xml:49:9-54:20
-66-->/home/jan/Pulpit/kptmobile-qubit-kpt-mobile/app/src/main/AndroidManifest.xml:49:19-67
+65-->/home/jan/Pulpit/mobile-industrial-poluttion/app/src/main/AndroidManifest.xml:48:13-56
+66        <activity android:name="com.qubit.kpt.mobile.ui.HomeActivity" >
+66-->/home/jan/Pulpit/mobile-industrial-poluttion/app/src/main/AndroidManifest.xml:49:9-54:20
+66-->/home/jan/Pulpit/mobile-industrial-poluttion/app/src/main/AndroidManifest.xml:49:19-70
 67            <intent-filter>
-67-->/home/jan/Pulpit/kptmobile-qubit-kpt-mobile/app/src/main/AndroidManifest.xml:50:13-53:29
+67-->/home/jan/Pulpit/mobile-industrial-poluttion/app/src/main/AndroidManifest.xml:50:13-53:29
 68                <action android:name="android.intent.action.MAIN" />
-68-->/home/jan/Pulpit/kptmobile-qubit-kpt-mobile/app/src/main/AndroidManifest.xml:51:17-69
-68-->/home/jan/Pulpit/kptmobile-qubit-kpt-mobile/app/src/main/AndroidManifest.xml:51:25-66
+68-->/home/jan/Pulpit/mobile-industrial-poluttion/app/src/main/AndroidManifest.xml:51:17-69
+68-->/home/jan/Pulpit/mobile-industrial-poluttion/app/src/main/AndroidManifest.xml:51:25-66
 69
 70                <category android:name="android.intent.category.LAUNCHER" />
-70-->/home/jan/Pulpit/kptmobile-qubit-kpt-mobile/app/src/main/AndroidManifest.xml:52:17-77
-70-->/home/jan/Pulpit/kptmobile-qubit-kpt-mobile/app/src/main/AndroidManifest.xml:52:27-74
+70-->/home/jan/Pulpit/mobile-industrial-poluttion/app/src/main/AndroidManifest.xml:52:17-77
+70-->/home/jan/Pulpit/mobile-industrial-poluttion/app/src/main/AndroidManifest.xml:52:27-74
 71            </intent-filter>
 72        </activity>
 73        <!-- Needs to be explicitly declared on P+ -->

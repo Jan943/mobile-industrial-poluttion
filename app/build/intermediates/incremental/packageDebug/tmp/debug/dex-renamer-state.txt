@@ -1,4 +1,4 @@
-#Sat Jan 11 18:04:19 CET 2020
-base.0=/home/jan/Pulpit/kptmobile-qubit-kpt-mobile/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+#Fri Jan 31 23:51:10 CET 2020
+base.0=/home/jan/Pulpit/mobile-industrial-poluttion/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
