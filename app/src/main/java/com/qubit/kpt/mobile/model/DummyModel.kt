@@ -52,3 +52,5 @@ object DummyModel {
         override fun toString(): String = content
     }
 }
+
+//data class EventItem(val accidentPlace : String, val  accidentTime : String, val accidentDescription : String, val accidentDistance : String )

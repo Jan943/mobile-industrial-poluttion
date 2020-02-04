@@ -15,6 +15,7 @@ MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/jan/.gr
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/jan/.gradle/caches/transforms-2/files-2.1/c1193d6ea98ba1fd2d83a6ee0edeb37e/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.viewpager2:viewpager2:1.0.0-beta02] /home/jan/.gradle/caches/transforms-2/files-2.1/620bb52e680c1645070507e8e2eea303/viewpager2-1.0.0-beta02/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.recyclerview:recyclerview:1.1.0-beta01] /home/jan/.gradle/caches/transforms-2/files-2.1/208e458c127f51a4b35d78465672755f/recyclerview-1.1.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/jan/.gradle/caches/transforms-2/files-2.1/ab7db52eeee434d0ae396a9385ff866a/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/jan/.gradle/caches/transforms-2/files-2.1/7e5752981e19721716572389d8e731d5/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/jan/.gradle/caches/transforms-2/files-2.1/b7dd6e27fcbc1df54464f35611401b88/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.media:media:1.0.0] /home/jan/.gradle/caches/transforms-2/files-2.1/55961cea5b2c28c79e1bed56c2b44cab/media-1.0.0/AndroidManifest.xml:17:1-22:12
@@ -33,7 +34,6 @@ MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/jan/.gr
 MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/jan/.gradle/caches/transforms-2/files-2.1/cc53f0d4de2b687de0f9ff868979e433/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.activity:activity:1.0.0-rc01] /home/jan/.gradle/caches/transforms-2/files-2.1/9480cea9d28e45d3945502b16d114bb6/activity-1.0.0-rc01/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.core:core:1.1.0-rc02] /home/jan/.gradle/caches/transforms-2/files-2.1/e002a346dc360d28ff31a3ec9451951e/core-1.1.0-rc02/AndroidManifest.xml:17:1-26:12
-MERGED from [androidx.cardview:cardview:1.0.0] /home/jan/.gradle/caches/transforms-2/files-2.1/ab7db52eeee434d0ae396a9385ff866a/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.documentfile:documentfile:1.0.0] /home/jan/.gradle/caches/transforms-2/files-2.1/2d4babb74e8978d311e48784ea596d9a/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/jan/.gradle/caches/transforms-2/files-2.1/6434591f8218011f4ab276849e299ed6/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] /home/jan/.gradle/caches/transforms-2/files-2.1/972244be96f994f2690f54bd7aec53d7/print-1.0.0/AndroidManifest.xml:17:1-22:12
@@ -199,6 +199,8 @@ MERGED from [androidx.viewpager2:viewpager2:1.0.0-beta02] /home/jan/.gradle/cach
 MERGED from [androidx.viewpager2:viewpager2:1.0.0-beta02] /home/jan/.gradle/caches/transforms-2/files-2.1/620bb52e680c1645070507e8e2eea303/viewpager2-1.0.0-beta02/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.recyclerview:recyclerview:1.1.0-beta01] /home/jan/.gradle/caches/transforms-2/files-2.1/208e458c127f51a4b35d78465672755f/recyclerview-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.recyclerview:recyclerview:1.1.0-beta01] /home/jan/.gradle/caches/transforms-2/files-2.1/208e458c127f51a4b35d78465672755f/recyclerview-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/jan/.gradle/caches/transforms-2/files-2.1/ab7db52eeee434d0ae396a9385ff866a/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/jan/.gradle/caches/transforms-2/files-2.1/ab7db52eeee434d0ae396a9385ff866a/cardview-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/jan/.gradle/caches/transforms-2/files-2.1/7e5752981e19721716572389d8e731d5/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/jan/.gradle/caches/transforms-2/files-2.1/7e5752981e19721716572389d8e731d5/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/jan/.gradle/caches/transforms-2/files-2.1/b7dd6e27fcbc1df54464f35611401b88/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
@@ -235,8 +237,6 @@ MERGED from [androidx.activity:activity:1.0.0-rc01] /home/jan/.gradle/caches/tra
 MERGED from [androidx.activity:activity:1.0.0-rc01] /home/jan/.gradle/caches/transforms-2/files-2.1/9480cea9d28e45d3945502b16d114bb6/activity-1.0.0-rc01/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.core:core:1.1.0-rc02] /home/jan/.gradle/caches/transforms-2/files-2.1/e002a346dc360d28ff31a3ec9451951e/core-1.1.0-rc02/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.core:core:1.1.0-rc02] /home/jan/.gradle/caches/transforms-2/files-2.1/e002a346dc360d28ff31a3ec9451951e/core-1.1.0-rc02/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.cardview:cardview:1.0.0] /home/jan/.gradle/caches/transforms-2/files-2.1/ab7db52eeee434d0ae396a9385ff866a/cardview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] /home/jan/.gradle/caches/transforms-2/files-2.1/ab7db52eeee434d0ae396a9385ff866a/cardview-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.documentfile:documentfile:1.0.0] /home/jan/.gradle/caches/transforms-2/files-2.1/2d4babb74e8978d311e48784ea596d9a/documentfile-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.documentfile:documentfile:1.0.0] /home/jan/.gradle/caches/transforms-2/files-2.1/2d4babb74e8978d311e48784ea596d9a/documentfile-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/jan/.gradle/caches/transforms-2/files-2.1/6434591f8218011f4ab276849e299ed6/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
